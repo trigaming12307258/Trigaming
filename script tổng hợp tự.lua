@@ -61,7 +61,7 @@ getgenv().Hide_Menu = false -- true/false
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/skibiditoiletgojo/Haidepzai/refs/heads/main/Autochest-Akgamingez"))() 
 AddButton(Tab1o, {
-     Name = "Redz Hub",
+     Name = "mingaming Hub",
     Callback = function()
 	  local Settings = {
 	 loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Min/refs/heads/main/MinMV"))()
